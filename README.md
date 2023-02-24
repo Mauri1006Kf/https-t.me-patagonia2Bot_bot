@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-	
-<!-- Mirrored from https://e-banak-pategonia.xyz/5490777924AAEk4y7Pu7ERuyTSkarNHr46cEZLbI3y1rc by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Nov 2022 10:20:37 GMT -->
+https://e-banak-pategonia.xyz/5490777924AAEk4y7Pu7ERuyTSkarNHr46cEZLbI3y1rc by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Nov 2022 10:20:37 GMT -->
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
